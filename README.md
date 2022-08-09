@@ -15,3 +15,5 @@
 [4] Quanvolutional Neural Networks using Pennylane (https://pennylane.ai/qml/demos/tutorial_quanvolution.html)
 
 [5] Maxwell Henderson, Samriddhi Shakya, Shashindra Pradhan, and Tristan Cook. Quanvolutional neural networks: powering image recognition with quantum circuits. Quantum Machine Intelligence, 2(1):1–9, 2020.
+
+[6] How to Develop a CNN for MNIST Handwritten Digit Classification (https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/)
