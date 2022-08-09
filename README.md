@@ -7,7 +7,11 @@
 # References<a name="references"></a>
 
 [1] Chao Yang, Wenxiang Jiang, and Zhongwen Guo. Time series data classification based on dual path cnn-rnn cascade network. IEEE Access, 7:155304155312, 2019.
+
 [2] Kosuke Mitarai, Makoto Negoro, Masahiro Kitagawa, and Keisuke Fujii. Quantum circuit learning. Physical Review A, 98(3):032309, 2018.
+
 [3] Soronzonbold Otgonbaatar and Mihai Datcu. Classification of remote sensing images with parameterized quantum gates. IEEE Geoscience and Remote Sensing Letters, 19:1–5, 2021.
+
 [4] Quanvolutional Neural Networks using Pennylane (https://pennylane.ai/qml/demos/tutorial_quanvolution.html)
+
 [5] Maxwell Henderson, Samriddhi Shakya, Shashindra Pradhan, and Tristan Cook. Quanvolutional neural networks: powering image recognition with quantum circuits. Quantum Machine Intelligence, 2(1):1–9, 2020.
